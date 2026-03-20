@@ -1,6 +1,6 @@
 # CookieClicker
 *Minecraft Version: 1.8*  
-**CookieClicker** is a fun minigame where you click to get Cookies, buy upgrades and try to get as many Cookies as you can.**
+**CookieClicker** is a fun minigame where you click to get Cookies, buy upgrades and try to get as many Cookies as you can.
 
 ## Gameplay  
 
