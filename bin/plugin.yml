@@ -1,0 +1,7 @@
+name: NewCookieClicker
+version: 1.0
+main: de.sofamann.clicker.main.Main
+
+commands:
+  cc:
+  cookieclicker:
